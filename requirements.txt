@@ -1,0 +1,2 @@
+# Requires: hypothetical-recursion
+# (Not available on PyPI)
